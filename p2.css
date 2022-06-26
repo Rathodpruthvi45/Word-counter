@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient( to right bottom,rgb(228, 87, 87),#ffedbca8);
+
+
+}
+#just{
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+h2{
+    color: antiquewhite;
+}
+.t{
+    margin: auto;
+    margin-top: 10%;
+    box-shadow:  0 4px 10px rgba(0, 0, 0, 0.6);
+}
+#text{
+   
+}
+textarea{
+    background-color:rgb(228, 87, 87) ;
+    color: whitesmoke;
+}
+#stat{
+    margin: auto;
+    margin-top: 5%;
+    font-size: 2rem;
+    box-shadow:  0 4px 10px rgba(0, 0, 0, 0.6);
+    color: whitesmoke;
+    background-color:rgb(228, 87, 87) ;
+}
